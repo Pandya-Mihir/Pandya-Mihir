@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mihir Pandya.
-- 👀 I’m interested in c++,java and js.
+- 👍 I'm very much fimiliar with Mvc.net 
+- 👀 Intermediate with c++,Java 
 - 🌱 I’m currently learning java script.
 - 📫 reach me using my instagram id:- mihir.289. 
 - 😄 Pronouns: he/him
