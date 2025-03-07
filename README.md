@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihir Pandya.
-- 👍 I'm very much fimiliar with Mvc.net 
+- 👍 I'm very much fimiliar with Asp.net Core MVC 
 - 👀 Intermediate with c++,Java 
 - 🌱 I’m currently learning java script.
 - 📫 reach me using my instagram id:- mihir.289. 
